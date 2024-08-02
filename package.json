@@ -1,0 +1,20 @@
+{
+  "name": "02.08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon soma.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "prompt-sync": "^4.2.0",
+    "router-dom": "^2.2.11",
+    "sass": "^1.77.8"
+  }
+}
